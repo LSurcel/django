@@ -1,0 +1,1 @@
+This is the project used for Django Girls Rimini workshop on July 9, 2017.
